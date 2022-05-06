@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNModulesSample", "FNModulesSample\FNModulesSample.csproj", "{F9F65E26-D7E2-40D1-85F7-97B4761737B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F65E26-D7E2-40D1-85F7-97B4761737B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F65E26-D7E2-40D1-85F7-97B4761737B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F65E26-D7E2-40D1-85F7-97B4761737B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F65E26-D7E2-40D1-85F7-97B4761737B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F28658A-86FE-4B4D-A656-F0DC7126024B}
+	EndGlobalSection
+EndGlobal
