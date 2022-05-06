@@ -6,8 +6,22 @@
 
   <ItemGroup>
     <None Remove="Models\" />
+    <None Remove="FatXMLCore" />
+    <None Remove="NodeAyano" />
+    <None Remove="Microsoft.CodeAnalysis.CSharp" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="FatXMLCore">
+      <HintPath>..\FatXMLCore.dll</HintPath>
+    </Reference>
+    <Reference Include="NodeAyano">
+      <HintPath>..\NodeAyano.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="4.1.0" />
   </ItemGroup>
 </Project>
